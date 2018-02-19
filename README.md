@@ -1,5 +1,7 @@
 # dtreq
-[![PyPI](https://img.shields.io/pypi/v/dtreq.svg)]() [![license](https://img.shields.io/github/license/ketnipz/dtreq.svg)]()
+[![PyPI](https://img.shields.io/pypi/v/dtreq.svg)]()
+[![license](https://img.shields.io/github/license/ketnipz/dtreq.svg)]()
+
 dtreq is a Discord Webhook embed wrapper specifically designed for use with the [Twisted networking engine](https://twistedmatrix.com/trac/). It is based off of [kyb3r's dhooks](https://github.com/kyb3r/dhooks) wrapper and utilizes [treq](https://github.com/twisted/treq) for requests.
 
 ## Requirements
