@@ -49,9 +49,13 @@ msg.post().addCallback(done).addErrback(error)
 
 ## Installation
 **dtreq** is available on the Python package index:
-`pip install dtreq`
+```
+$ pip install dtreq
+```
 alternatively, you may clone the repositry and import the module:
-`git clone https://github.com/ketnipz/dtreq`
+```
+$ git clone https://github.com/ketnipz/dtreq 
+```
 
 ```py
 from dtreq import Webhook
