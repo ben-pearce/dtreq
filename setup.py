@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name="dtreq",
   packages=["dtreq"],
-  version="0.1",
+  version="0.2",
   description="A Discord webhook wrapper for Twisted",
   author="Ben Pearce",
   author_email="ben@solero.me",
